@@ -7,19 +7,21 @@ description: >-
 
 # 👋 Bitácora del pasante
 
-## &#x20;PRIMEROS PASOS
+## PASO 0
 
-Aíqu
+Antes de iniciar me gustaría darte un glosario de términos útiles:
 
-> Loom is a video messaging tool that helps you get your message across through instantly shareable videos.
+> **Git:** es un sistema de control de versiones distribuido, es decir, un clon local del proyecto es un repositorio de control de versiones
 >
-> With Loom, you can record your camera, microphone, and desktop simultaneously. Your video is then instantly available to share through Loom's patented technology.
+> **Github:** GitHub es un portal para alojar proyectos utilizando el sistema de control de versiones Git.
 >
-> — From the [Loom Docs](https://support.loom.com/hc/en-us/articles/360002158057-What-is-Loom-)
+> **Repositorio:** es un contenedor de todos los archivos de tu proyecto y el historial de revisiones de cada uno de ellos.
+>
+> **Gitbook:** plataforma que permite al usuario publicar la documentación de su proyecto utilizando diferentes plantillas.
+>
+> **HTML:** (Lenguaje de Marcas de Hipertexto, del inglés HyperText Markup Language) es el componente más básico de la Web. No es un lenguaje de programación, más bien es una sintaxis del lenguaje.
 
-> The Mailchimp Marketing API provides programmatic access to Mailchimp data and functionality, allowing developers to build custom features to do things like sync email activity and campaign analytics with their database, manage audiences and campaigns, and more.
->
-> — From the [Mailchimp Marketing API docs](https://mailchimp.com/developer/marketing/docs/fundamentals/)
+
 
 ## Quick links
 
