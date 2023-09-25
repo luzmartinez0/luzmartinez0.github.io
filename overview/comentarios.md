@@ -19,3 +19,7 @@ Al no guardar debidamente el proceso de lo que estuve haciendo, me costó mucho 
 3. **Como estudiantes universitarios tenemos muchos pendientes, ser organizados y prestar atención a lo que hacemos es muy importante para llevar a cabo todas las tareas de la mejor forma posible.**
 
 Hablar cuando se salen de nuestras manos los trabajos, nos permite recibir la ayuda necesaria de nuestros compañeros, guías o tutores.
+
+***
+
+> _Nota: aún no menciono la manera de resolver los problemas que tuve porque hasta ahora no estoy pudiendo con ellos._
