@@ -1,6 +1,6 @@
 # Table of contents
 
-* [👋 Welcome to A Product](README.md)
+* [👋 Bitácora del pasante](README.md)
 
 ## Overview
 

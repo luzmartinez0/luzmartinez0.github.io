@@ -1,12 +1,15 @@
-# 👋 Welcome to A Product
+---
+description: >-
+  En este espacio describiré todos los pasos que realicé para crear este
+  espacio, desde la creación de una cuenta de github hasta la escritura de estos
+  párrafos.
+---
 
-{% hint style="info" %}
-**GitBook tip:** your product docs aren't just a reference of all your features! use them to encourage folks to perform certain actions and discover the value in your product.
-{% endhint %}
+# 👋 Bitácora del pasante
 
-## Overview
+## &#x20;PRIMEROS PASOS
 
-Here are a couple of example overviews from products with really great docs:
+Aíqu
 
 > Loom is a video messaging tool that helps you get your message across through instantly shareable videos.
 >
